@@ -2,8 +2,8 @@
 
 ## Authors
 
-*Adriana Wilde (agw106)
-*Ayse Sunar (aysess)
+* §Adriana Wilde (agw106)
+* Ayse Sunar (aysess)
 
 ## Further information
-blah blah
+This is created in the Software Carpentry Workshop with the @RSGsoton
